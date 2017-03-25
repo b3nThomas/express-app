@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "My first crack at Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nThomas/express-app.git"
+  },
+  "author": "b3nThomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3nThomas/express-app/issues"
+  },
+  "homepage": "https://github.com/b3nThomas/express-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
